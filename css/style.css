@@ -35,3 +35,26 @@ header{
     display: block;
     font-size: 0.8em;
 }
+
+#yellow{
+    background-color: yellow;
+}
+
+.margin{
+    margin-top: 20px;
+}
+
+#thead-row{
+    color: white;
+    background-color: cadetblue;
+}
+
+table{
+    width: 100%;
+    text-align: left;
+    border-spacing: 0;
+}
+
+.color{
+    background-color: rgb(197, 223, 224);
+}
