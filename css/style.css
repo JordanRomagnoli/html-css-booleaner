@@ -1,10 +1,31 @@
+*{
+    margin: 0;
+}
+
 header{
     background-color: cadetblue;
     background-image: url(../img/pattern.png);
+    background-size: 300px auto;
 }
 
 #logo-container{
     width: 10%;
     height: auto;
     padding-top: 50px;
+}
+
+#article-info{
+    color: gray;
+}
+
+#author-article{
+    color: rgb(0, 89, 255);
+}
+
+#date-article{
+    font-size: 0.8em;
+}
+
+.header-main{
+    margin-top: 20px;
 }
