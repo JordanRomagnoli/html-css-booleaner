@@ -1,0 +1,10 @@
+header{
+    background-color: cadetblue;
+    background-image: url(../img/pattern.png);
+}
+
+#logo-container{
+    width: 10%;
+    height: auto;
+    padding-top: 50px;
+}
