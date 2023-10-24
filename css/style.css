@@ -1,11 +1,12 @@
-*{
-    margin: 0;
-}
 
 header{
     background-color: cadetblue;
     background-image: url(../img/pattern.png);
     background-size: 500px auto;
+}
+
+#titolo-articolo{
+    margin-bottom: 5px;
 }
 
 #logo-container{
@@ -38,10 +39,6 @@ header{
 
 #yellow{
     background-color: yellow;
-}
-
-.margin{
-    margin-top: 20px;
 }
 
 #thead-row{
