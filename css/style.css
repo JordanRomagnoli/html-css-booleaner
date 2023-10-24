@@ -58,3 +58,25 @@ table{
 .color{
     background-color: rgb(197, 223, 224);
 }
+
+.consigliati{
+    width: 250px;
+    height: 200px;
+    color: white;
+    margin: 10px 0 5px 0;
+    font-size: 1.3em;
+    background-position: center;
+    background-size: cover;
+}
+
+#consigliato_1{
+    background-image: url(../img/monitor.jpg);
+}
+
+#consigliato_2{
+    background-image: url(../img/graph.jpg);
+}
+
+#gray{
+    color: gray;
+}
